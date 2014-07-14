@@ -14,9 +14,6 @@
 
 %include /usr/share/spin-kickstarts/fedora-live-kde-base.ks
 
-#partition size
-part / --size 8192
-
 %packages
 -fedora-logos
 generic-logos
