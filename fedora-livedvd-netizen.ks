@@ -10,7 +10,7 @@
 # Maintainer: Corey Leong <cleong@fedoraproject.org>
 #             https://fedoraproject.org/wiki/User:Cleong
 
-# Last modified: 13 July 2014.
+# Last modified: 14 July 2014.
 
 %include /usr/share/spin-kickstarts/fedora-live-kde-base.ks
 
